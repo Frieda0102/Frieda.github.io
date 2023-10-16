@@ -1,0 +1,12 @@
+join
+left join
+right join
+case
+group by
+having
+limit
+sum
+order by asc/desc
+distinct
+char_length(字段名)
+
